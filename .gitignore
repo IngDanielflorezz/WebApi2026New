@@ -1,0 +1,13 @@
+﻿# Clave JWT y configuración privada
+appsettings.Development.json
+
+# Archivos generados por .NET
+bin/
+obj/
+
+# Archivos temporales de Visual Studio
+.vs/
+
+# Configuración de usuario
+*.user
+*.suo
